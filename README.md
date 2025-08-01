@@ -13,7 +13,7 @@ A smart web app that helps you discover houseplants and generate personalized ca
 ## 🛠️ How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/plant-care-assistant.git
+git clone https://github.com/vineetsista/plant-care-assistant.git
 cd plant-care-assistant
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
